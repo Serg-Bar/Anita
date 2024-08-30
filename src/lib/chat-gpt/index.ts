@@ -1,0 +1,1 @@
+export { sendToChatGPT } from './gpt';
