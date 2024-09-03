@@ -8,4 +8,5 @@ export const AppConfig = {
   locales: ['en', 'fr'],
   defaultLocale: 'en',
   localePrefix,
+  url: 'https://c433-2a00-a041-e04e-6300-5041-cc2b-bcb1-b2e5.ngrok-free.app/',
 };
